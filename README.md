@@ -7,4 +7,4 @@ This repository documents my professional development and training progress
 - [LetsDefend - SOC analyst learning path] - Issued Jan 2026 -
 
 ## Study in progress
-- [LetsDefend - CompTIA CySA+ Preparation Path]
+- [LetsDefend - CompTIA CySA+ Preparation Path](letsdefend_cysa_preparation_path.md)
