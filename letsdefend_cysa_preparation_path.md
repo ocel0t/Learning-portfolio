@@ -1,3 +1,5 @@
+- [Windows Memory Forensics](https://app.letsdefend.io/my-rewards/detail/665180a8c3264368a8f53a1ac8379dff)
+- [Malware Traffic Analysis with Wireshark](https://app.letsdefend.io/my-rewards/detail/8533d83b76334392b3cbd591dc8778ba)
 - [Introduction to Python](https://app.letsdefend.io/my-rewards/detail/88baf3bbdf4749ad883e072e22fb0f06) - 16 October 2026
 - [Writing a Report on Security Incident](https://app.letsdefend.io/my-rewards/detail/743bbced-2026-4462-90b1-c73652952f96) - 15 October 2026
 - [SIEM Basics, Installation and Configuration](https://app.letsdefend.io/my-rewards/detail/7c601934edfc4bf9974aed692373fe40)
@@ -5,3 +7,7 @@
 - [Introduction to Cryptology](https://app.letsdefend.io/my-rewards/detail/a752366d413a4ac3bbefbe364f2cab82)
 - [Secure Network Design](https://app.letsdefend.io/my-rewards/detail/6e87ad548ff443c1928c3bfe353ba38c)
 - [Network Design and Security Products](https://app.letsdefend.io/my-rewards/detail/d130a84a82a442b2ae8b8656640f6536)
+- [Network Fundamentals II](https://app.letsdefend.io/my-rewards/detail/9769014c30fc441ab31791f5003738a4)
+- [Linux Incident Response course](https://app.letsdefend.io/my-rewards/detail/b864480b-c9f7-402c-bbdc-d326a5fe4fb6)
+- [Windows Incident Response course](https://app.letsdefend.io/my-rewards/detail/1bf0129e-66c2-44a5-b1d8-edc2806cdb27)
+- [VirusTotal for SOC Analysts](https://app.letsdefend.io/my-rewards/detail/15ce1aef-2f21-4875-b8b6-c539e401a74c) 
