@@ -1,1 +1,2 @@
 - [Senior Security Analyst Intro](https://tryhackme.com/room/seniorsecanalystintro)
+- [Defensive Security Trends](https://tryhackme.com/room/defensivesecuritytrends)
