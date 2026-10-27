@@ -11,5 +11,6 @@ This repository documents my professional development and training progress
 
 ## Study in progress
 
+- [TryHackMe SOC level2](thm_soc2.md)
 
   
