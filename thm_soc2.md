@@ -1,2 +1,3 @@
 - [Senior Security Analyst Intro](https://tryhackme.com/room/seniorsecanalystintro)
 - [Defensive Security Trends](https://tryhackme.com/room/defensivesecuritytrends)
+- [SOC L2 alert triage](https://tryhackme.com/room/socl2alerttriage)
