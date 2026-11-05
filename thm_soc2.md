@@ -1,3 +1,4 @@
 - [Senior Security Analyst Intro](https://tryhackme.com/room/seniorsecanalystintro)
 - [Defensive Security Trends](https://tryhackme.com/room/defensivesecuritytrends)
 - [SOC L2 alert triage](https://tryhackme.com/room/socl2alerttriage)
+- [Report Writing for SOC L2](https://tryhackme.com/room/reportwritingsocl2) - 2026.11.05
